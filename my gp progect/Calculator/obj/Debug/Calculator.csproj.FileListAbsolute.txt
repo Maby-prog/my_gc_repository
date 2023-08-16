@@ -1,0 +1,13 @@
+C:\Users\Student.ITSTEP\Documents\Калькулятор Виктория Панина\my gp progect\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Student.ITSTEP\Documents\Калькулятор Виктория Панина\my gp progect\Calculator\obj\Debug\Calculator.Калькулятор.resources
+C:\Users\Student.ITSTEP\Documents\Калькулятор Виктория Панина\my gp progect\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Student.ITSTEP\Documents\Калькулятор Виктория Панина\my gp progect\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Student.ITSTEP\Documents\Калькулятор Виктория Панина\my gp progect\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Student.ITSTEP\Documents\Калькулятор Виктория Панина\my gp progect\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Student.ITSTEP\Documents\Калькулятор Виктория Панина\my gp progect\Calculator\bin\Debug\Calculator.exe
+C:\Users\Student.ITSTEP\Documents\Калькулятор Виктория Панина\my gp progect\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Student.ITSTEP\Documents\Калькулятор Виктория Панина\my gp progect\Calculator\obj\Debug\Calculator.exe
+C:\Users\Student.ITSTEP\Documents\Калькулятор Виктория Панина\my gp progect\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Student.ITSTEP\Documents\Калькулятор Виктория Панина\my gp progect\Calculator\obj\Debug\Calculator.Menu.resources
+C:\Users\Student.ITSTEP\Documents\Калькулятор Виктория Панина\my gp progect\Calculator\obj\Debug\Calculator.pasword.resources
+C:\Users\Student.ITSTEP\Documents\Калькулятор Виктория Панина\my gp progect\Calculator\obj\Debug\Calculator.colculatorrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr.resources
